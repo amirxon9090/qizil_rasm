@@ -1,0 +1,1 @@
+# qizil-rasimli

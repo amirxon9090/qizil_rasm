@@ -1,0 +1,67 @@
+body{
+    margin: auto;
+    background-image: url("gradient_bg.png");
+    background-repeat: repeat-x;
+    margin-top: 0px;
+    font-family: Garamond, serif;
+    font-size: 18px;
+    
+}
+.header{
+    background-image: url(QIZIL\ RASM.jpeg);
+
+    text-align: center;
+    padding: 25px;
+    color: white;
+    background-size: cover;
+    height: 200px;
+    padding-top: 55px;
+}
+button{
+    padding: 5px 10px;
+    font-size: 15px;
+    color: white;
+    background-color: blue;
+    border-color: blue;
+    border-radius: 10px;
+}
+span{
+    font-size: 35px;
+    text-shadow: 4px 2px 8px white,3px 1px 7px black,3px 2px 7px red;
+    font-family: Helvetica, sans-serif;
+}
+.footer{
+    padding: 15px;
+    margin-top: 20px;
+    background-color: #333;
+    color: white;
+    text-align: center;
+}
+.card{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-top: 25px;
+    gap: 20px;
+    border: 5px;
+    padding-bottom: 50px;
+    
+}
+.card .cards{
+    border: 2px solid whitesmoke;
+    text-align: center;
+}
+
+button:hover{
+    background-color: blue;
+    color: white;
+    border-color: blue;
+    border-radius: 5px;
+    text-align: center;
+
+}
+img{
+    width: 2000px;
+    height: 150px;
+}
